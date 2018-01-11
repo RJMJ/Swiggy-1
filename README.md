@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # base
 
 A blank template to be used as a starting point to build projects on Hasura. A "project" is a "gittable" directory in the file system, which captures all the information regarding clusters, services and migrations. It can also be used to keep source code for custom services that you write.
@@ -53,3 +54,7 @@ Info about the clusters added to this project can be found in this file. Each cl
     namespace: hasura
   data: null  
 ```
+=======
+# Swiggy
+Cloning swiggy app #hpdf
+>>>>>>> 8648262d8035091e4f660376c11039265ca34fb1
